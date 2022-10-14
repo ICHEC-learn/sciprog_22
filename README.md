@@ -1,5 +1,14 @@
 # Scientific Programming Concepts PH502/ACM40660 Autumn 2022
 
+
+
+
+hello world
+
+
+
+
+
 Fork this repository into your github account. From there; 
 
 - Clone the repo onto your local machine/sciprog using `git clone`
