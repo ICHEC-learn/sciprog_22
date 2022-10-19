@@ -14,7 +14,6 @@ float trap_rule(float a, float b, int N, float function_array[N+1])
     {
         sum += 2*function_array[i];
         // sum = sum +2*fucntion_array[i]
-
     } 
     return (b - a) * (sum)/(2 * N);
 }
