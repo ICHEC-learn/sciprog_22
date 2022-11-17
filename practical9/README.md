@@ -1,4 +1,8 @@
-### Exercises
+### Folder structure
+1. The *magic_square.h* file is a function that would be used in the main file
+2. The main executes code to answer the question
+
+
 • Magic-Square problem. A square is a defined as a square matrix with integer elements.
 
 1. Implement function isMagicSquare in file magic square.h to check whether a square is

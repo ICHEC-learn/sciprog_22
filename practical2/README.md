@@ -1,5 +1,9 @@
 Codes for practical2
 
+### Folder structure
+1. The *Conversion* c file is the code for Conversion question
+2. THe *Sum* c file is th code for Sum question
+
 ## Conversion
 
 For this exercise you need to have Conversion.c or Conversion. f 90.

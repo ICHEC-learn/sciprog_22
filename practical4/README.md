@@ -1,3 +1,5 @@
+### Folder structure
+1.The *New_tan* is the c code file for the question
 ### Exercises
 
 - Calculate the values of tan(x) where x is in radians in the range [0, 60] every five degrees. Place the results in an array. Print the array. Make the array a global variable.

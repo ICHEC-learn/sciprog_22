@@ -1,3 +1,6 @@
+### Folder structure
+1. The *Trap* c file is the code for the question
+    
 ### Exercise
 
 Computing the area under the curve of f (x) where x ∈ [a, b] can be done using the Trapezodial

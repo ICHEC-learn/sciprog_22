@@ -1,4 +1,5 @@
-
+### Folder structure
+1. The *Hanoi.c* file is the code for the question
 
 
 ### Exercise 10

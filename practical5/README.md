@@ -1,3 +1,6 @@
+### Folder structure
+1. The *Fibonacci.c* file is the code for the Fibonacci question
+2. The *Arctanh.c* file is the code for the question 2
 ### Some code define descrption:
 - int i declares an int.
 - int *p declares a pointer to an int.
