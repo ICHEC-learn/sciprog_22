@@ -1,0 +1,104 @@
+commit cdb8261d503921f449451a36b3dbe098de381c5d
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Tue Nov 22 09:31:31 2022 +0000
+
+    Practical 10 code
+
+commit 0335d3e781e81a11fd21276d6fc67cffa794105d
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Tue Nov 22 09:26:44 2022 +0000
+
+    Practical 9 code
+
+commit 745afdf860fa713be0b60c2308bd4a3b2f0683b3
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Tue Nov 22 09:00:40 2022 +0000
+
+    Practical 8 code
+
+commit f360ef04869b027dc5a3cb1244d55e777779b8ca
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Sat Nov 19 02:52:47 2022 +0000
+
+    Practical 7 code
+
+commit 6a42a1d4d7e575031c823ac7efe438bbfc0abbe2
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Sat Nov 19 02:52:09 2022 +0000
+
+    Practical 6 Read me file
+
+commit 40fecdee1a9b2e205e031cba63255fbda3a6f83e
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Sat Nov 19 02:50:51 2022 +0000
+
+    Practical 6 code
+
+commit 964929bc022c5886f1e96dd4d1e92cc07bb47480
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Fri Nov 18 17:39:03 2022 +0000
+
+    Practical 5 code
+
+commit 90d709b256178d6bdfdc93cae9972934725bc4a1
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Fri Nov 18 17:32:03 2022 +0000
+
+    Added Read me file
+
+commit 43a2c731a6e79bb384dd44e45e28a63601bafb21
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Fri Nov 18 17:27:08 2022 +0000
+
+    Practical 4 code
+
+commit b35effdd8b5e645892260e6c7508e7f9919269eb
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Wed Nov 16 00:29:59 2022 +0000
+
+    Practical 3 code
+
+commit d19fb0188470e870180339c7b17979e9a597571d
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Tue Nov 15 21:29:02 2022 +0000
+
+    Practical 2 code
+
+commit 0c2047e3aedeac5104a0e6c9f895876d8342e720
+Author: Parinitha Kiran <parinitha@ucdconnect.ie>
+Date:   Mon Nov 14 00:08:40 2022 +0000
+
+    Update README file
+
+commit dc2584c935ed4720ef7c8786482c4ddd63f88504
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:14:00 2022 +0100
+
+    Update README.md
+
+commit e811d2284ca3ffb2924bab959a842bb3806b35e0
+Merge: 6a5ffb7 d2c301d
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:13:37 2022 +0100
+
+    Merge pull request #1 from buketbenek/Buket_BenekGursoy
+    
+    Update README file
+
+commit d2c301dad05f0c7ff203d4b28e1d8be3ade3c99c
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Sat Sep 24 00:11:21 2022 +0100
+
+    Update README file
+
+commit 6a5ffb76f12846d1b0c8cc5d62cf0716a4fda823
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:18:16 2022 +0100
+
+    Update README.md
+
+commit db2e6a8406e8f069576574b3bcdbe338a5827664
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Mon Aug 8 15:17:45 2022 +0100
+
+    Initial commit
